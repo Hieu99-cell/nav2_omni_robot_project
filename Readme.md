@@ -46,6 +46,7 @@ Edit `env_config.sh` to set the correct paths for your environment.
 ### 4. Grant Execute Permissions
 Make all shell scripts executable:
 ```bash
+cd ~/nav2_omni_robot_project
 chmod +x *.sh
 ```
 
