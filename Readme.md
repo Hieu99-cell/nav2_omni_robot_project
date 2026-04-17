@@ -1,8 +1,10 @@
-## Team member
+## Team Members
 
-Lê Phan Công Hiếu: 23134017
-Nguyễn Quang Tùng: 23134062
-Nguyễn Trọng Tâm: 
+| Thành viên | MSSV |
+|---|---|
+| Lê Phan Công Hiếu | 23134017 |
+| Nguyễn Quang Tùng | 23134062 |
+| Nguyễn Trọng Tâm  | TBD      | 
 # Robot Omni Setup Guide
 
 This guide provides instructions for setting up and running the Robot Omni simulation and navigation system.
