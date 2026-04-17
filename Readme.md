@@ -81,4 +81,4 @@ Open separate terminals for each component and source the setup:
   ./run_task.sh
   ```
 
-For troubleshooting, refer to the project documentation or logs.
+For troubleshooting, refer to the project documentation or logs.![Lượt xem](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHieu99-cell%2Fnav2_omni_robot_project&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)
