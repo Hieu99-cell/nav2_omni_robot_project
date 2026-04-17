@@ -1,0 +1,127 @@
+rooms:
+  kho_thuoc:
+    frame_id: map
+    x: 5.45
+    y: 33.4
+    z: 0.1
+    yaw: 0.0
+  room1:
+    frame_id: map
+    x: 12.2
+    y: 37.0
+    z: 0.1
+    yaw: 0.0
+  room2:
+    frame_id: map
+    x: 16.7
+    y: 32.0
+    z: 0.1
+    yaw: 0.0
+  room3:
+    frame_id: map
+    x: 16.9
+    y: 25.9
+    z: 0.1  
+    yaw: 0.0
+  room4:
+    frame_id: map
+    x: 14.2
+    y: 15.1
+    z: 0.1  
+    yaw: 0.0
+  room5:
+    frame_id: map
+    x: 14.3
+    y: 1.45
+    z: 0.1
+    yaw: 0.0
+  room6:
+    frame_id: map
+    x: 10.2
+    y: -7.47
+    z: 0.1
+    yaw: 0.0
+  room7:
+    frame_id: map
+    x: -3.43
+    y: -7.43
+    z: 0.1  
+    yaw: 0.0
+  room8:
+    frame_id: map
+    x: -3.72
+    y: 1.66
+    z: 0.1  
+    yaw: 0.0
+  room9:
+    frame_id: map
+    x: -3.83
+    y: 15.3
+    z: 0.1
+    yaw: 0.0
+  room10:
+    frame_id: map
+    x: -5.35
+    y: 26.7
+    z: 0.1
+    yaw: 0.0
+  room11:
+    frame_id: map
+    x: -6.57
+    y: 31.3
+    z: 0.1  
+    yaw: 0.0
+  room12:
+    frame_id: map
+    x: -1.48
+    y: 36.4
+    z: 0.1  
+    yaw: 0.0
+  room13:
+    frame_id: map
+    x: 0.357
+    y: 39.6
+    z: 0.1
+    yaw: 0.0
+  room14:
+    frame_id: map
+    x: 10.0
+    y: 37.8
+    z: 0.1
+    yaw: 0.0
+  room15:
+    frame_id: map
+    x: 4.21
+    y: 17.3
+    z: 0.1  
+    yaw: 0.0
+  room16:
+    frame_id: map
+    x: 6.57
+    y: 17.4
+    z: 0.1  
+    yaw: 0.0
+  room17:
+    frame_id: map
+    x: 3.43
+    y: 9.41
+    z: 0.1
+    yaw: 0.0
+  room18:
+    frame_id: map
+    x: 7.15
+    y: 9.38
+    z: 0.1
+    yaw: 0.0
+  room19:
+    frame_id: map
+    x: 3.59
+    y: 18.0
+    z: 0.1  
+    yaw: 0.0
+  room20:
+    frame_id: map
+    x: 7.16
+    y: 1.29
+    z: 0.1  
+    yaw: 0.0  
