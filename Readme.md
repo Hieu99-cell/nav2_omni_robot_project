@@ -46,28 +46,28 @@ Open separate terminals for each component and source the setup:
 
 - **Terminal 1 (EKF)**:
   ```bash
-  cd ~/Pro
+  cd ~/nav2_omni_robot_project
   source install/setup.bash
   ./run_ekf.sh
   ```
 
 - **Terminal 2 (Robot Omni)**:
   ```bash
-  cd ~/Pro
+  cd ~/nav2_omni_robot_project
   source install/setup.bash
   ./run_robot_omni.sh
   ```
 
 - **Terminal 3 (Navigation)**:
   ```bash
-  cd ~/Pro
+  cd ~/nav2_omni_robot_project
   source install/setup.bash
   ./run_navigation.sh
   ```
 
 - **Terminal 4 (Task)**:
   ```bash
-  cd ~/Pro
+  cd ~/nav2_omni_robot_project
   source install/setup.bash
   ./run_task.sh
   ```
