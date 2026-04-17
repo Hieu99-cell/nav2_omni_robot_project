@@ -13,7 +13,7 @@ This guide provides instructions for setting up and running the Robot Omni simul
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/nav2_omni_robot_project.git
+git clone https://github.com/Hieu99-cell/nav2_omni_robot_project.git
 cd nav2_omni_robot_project
 ```
 
