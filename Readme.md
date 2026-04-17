@@ -9,6 +9,14 @@
 
 This guide provides instructions for setting up and running the Robot Omni simulation and navigation system.
 
+## Getting Started
+
+### Clone the Repository
+```bash
+git clone https://github.com/yourusername/nav2_omni_robot_project.git
+cd nav2_omni_robot_project
+```
+
 ## Prerequisites
 - Ensure you have the necessary dependencies installed (e.g., Gazebo, ROS).
 - Update paths to match your local environment.
