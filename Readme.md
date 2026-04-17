@@ -4,7 +4,7 @@
 |---|---|
 | Lê Phan Công Hiếu | 23134017 |
 | Nguyễn Quang Tùng | 23134062 |
-| Nguyễn Trọng Tâm  | TBD      | 
+| Vũ Trọng Tâm      | 23134051 | 
 # Robot Omni Setup Guide
 
 This guide provides instructions for setting up and running the Robot Omni simulation and navigation system.
