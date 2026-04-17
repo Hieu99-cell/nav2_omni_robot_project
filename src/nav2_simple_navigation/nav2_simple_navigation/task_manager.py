@@ -61,12 +61,12 @@ def main():
             room = rooms_data[room_key]
             all_points.append([room['x'], room['y']])
             point_labels.append(room_key)
-            print(f"✅ Đã thêm {room_key} vào danh sách chờ.")
+            print(f" Đã thêm {room_key} vào danh sách chờ.")
         else:
-            print(f"⚠️ Cảnh báo: Không tìm thấy {room_key} trong file YAML!")
+            print(f" Cảnh báo: Không tìm thấy {room_key} trong file YAML!")
 
     if len(all_points) < 2:
-        print("❌ Không có điểm đến hợp lệ. Kết thúc.")
+        print(" Không có điểm đến hợp lệ. Kết thúc.")
         return
 
     # 4. Chạy GA (Với tham số mạnh cho 20 phòng)
@@ -74,7 +74,7 @@ def main():
     # Chúng ta tăng pop_size và generations trực tiếp tại đây
     optimal_indices = calculate_optimal_route(all_points, pop_size=300, num_generations=1000, return_to_depot=False)
     
-    print("\n🚩 Lộ trình tối ưu tìm được:")
+    print("\n Lộ trình tối ưu tìm được:")
     for idx in optimal_indices:
         print(f" -> {point_labels[idx]}")
 
@@ -94,7 +94,7 @@ def main():
         goal_pose.pose.orientation.w = 1.0 
         goal_poses.append(goal_pose)
 
-    print("\n🚀 Robot bắt đầu di chuyển...")
+    print("\n Robot bắt đầu di chuyển...")
     navigator.followWaypoints(goal_poses)
 
     while not navigator.isTaskComplete():
@@ -103,7 +103,7 @@ def main():
         # rclpy.spin_once(task_node, timeout_sec=0.1)
         pass
 
-    print("\n✅ Đã hoàn thành toàn bộ lộ trình!")
+    print("\n Đã hoàn thành toàn bộ lộ trình!")
     rclpy.shutdown()
 
 if __name__ == '__main__':
